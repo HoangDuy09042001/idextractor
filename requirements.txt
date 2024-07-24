@@ -5,7 +5,7 @@ Jinja2
 pre-commit
 pylibsrtp
 python-multipart
-shapely==1.7.1
+# shapely==1.7.1
 uvicorn==0.17.6 # Newer version has deprecated debug in run()
 # pip install -r requirements.txt
 vietocr
